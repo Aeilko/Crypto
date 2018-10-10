@@ -1,4 +1,9 @@
+#Ignore Eclipse files
 bin/
 .project
 .classpath
 .settings/
+
+# Ignore IntelliJ files
+.idea/
+Crypto.iml

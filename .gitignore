@@ -6,4 +6,5 @@ bin/
 
 # Ignore IntelliJ files
 .idea/
+out/
 Crypto.iml

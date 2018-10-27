@@ -1,7 +1,5 @@
 package ciphers;
 
-import utils.Display;
-
 public class LFSR {
 
     private int length;
